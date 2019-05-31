@@ -1,0 +1,6 @@
+framework module Pods_SSRWeexDemo {
+  umbrella header "Pods-SSRWeexDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
